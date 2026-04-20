@@ -1,4 +1,4 @@
-# IMWUT_AnxietySense
+# AnxietySense
 
 Codes for our paper "AnxietySense: A Multimodal Smartwatch Framework for Predicting State Anxiety via Weakly Supervised Meta-Learning"
 
